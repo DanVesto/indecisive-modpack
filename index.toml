@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "84abec9cda0e905d2e503066a11fd6addb6b28e6604c633485993c25850b7198"
+hash = "93824edcab0aa7a0f93f93342754f98dbc7b2526d8126b918f10805bc4e12f10"
 metafile = true
 
 [[files]]
@@ -182,12 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
+hash = "c79b4ff9b5ce619278bc4704960d4cbb78d943153f4a7560a84b000a64b2c019"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "e4d2d558f3a44c059788554b6394c126d2993be30c8649da92fabb8fd2e4623f"
+hash = "36217218d7336e59ae18b3b8e0acb37c9d4a432d889a1808840012b7c9d92a42"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "efcc621dcc9e78c82b188f63ea82c8d6278bb7ee86bbcfdc658f0eb51e7b859e"
+hash = "c2e47819fe982120f27531179a6452af78312044ad9aab609827ee008cb813c6"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "9698d77c462cbf16a5c3db9bc3cea684b36f3a26ef9320683f38c9525c678948"
+hash = "03f5a2eb3c7c2c871f8a3b3ac0235291d41e70ac4baa22e9c9140e358b8773ab"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare.pw.toml"
-hash = "769c1fcb95cfb5efb1415b13629a0035e0ce67f48b64d1a0681efd95dde447f2"
+hash = "5a6f56b01fec58c6737c31ff17e967ddb15a8d7959d0a25b9aa673e6981713cc"
 metafile = true
 
 [[files]]
@@ -292,7 +292,12 @@ metafile = true
 
 [[files]]
 file = "mods/findme.pw.toml"
-hash = "49ac4b54302b17b6df0411394d3cd336ae775df8f981d1fee961c7cb52282e32"
+hash = "dbf73c3cd302e39f9c359e2b29fda91f6c8b01c6b708088362eb0a4eba935dd2"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "fd64444a5e1d1ec5c9fc4c1d015dc5c731c1f6beeaa63cf4aa359b1cd2841669"
 metafile = true
 
 [[files]]
@@ -362,12 +367,12 @@ metafile = true
 
 [[files]]
 file = "mods/name-pain.pw.toml"
-hash = "e17ca0e8c78225cf106e70c9a5cd9002cd61b2ba0da1995aafdd84b7f8e5f81b"
+hash = "42d042ca8ddd33431d2ad1d584bde71640be6c06a0565744613fc83e31f33393"
 metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "fad0e1c59d0548afbcbe2e34d25fbf97cf4c6effe40b3f7e2b93dd5c546ee601"
+hash = "e06240634ffc0160925d15dc99c0f6d765c04bc303fb118d76c2f6cac38eed69"
 metafile = true
 
 [[files]]
@@ -412,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "36e90d89b61e3aec30f1a04eafa73674ace3360df0cdb58ebb5495dd80dda0b6"
+hash = "c8028b2468a5b5257b94d6fdd4c9bf5372ec13eef3eb40c85e6f3b808f4cdb6f"
 metafile = true
 
 [[files]]
@@ -462,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "07820f2e9cf69d227919b049139bb03f83332d3ca2af5b4253c6e88893c47680"
+hash = "677339e3009ce3baf939f026be93885fe243369537dd55f3816a25c91940af17"
 metafile = true
 
 [[files]]

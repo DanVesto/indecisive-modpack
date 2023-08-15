@@ -1,12 +1,12 @@
 name = "Indecisive Pack"
 author = "ArtificialDan"
-version = "0.0.3"
+version = "0.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f8ce28a715a7099214c47a1ace81992434d0621e42c42ad439c23891e1d875ef"
+hash = "c10613ce1cc8ce96bf17bb7c5c502650fc61d977036c5ac79f5d90bbe4e69211"
 
 [versions]
 forge = "40.2.10"
