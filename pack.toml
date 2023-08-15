@@ -1,13 +1,13 @@
-name = "Terra Proxy"
+name = "Indecisive Pack"
 author = "ArtificialDan"
-version = "0.0.85"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "956f85e5a0bdf41688de64ca88bfa17addc7bcff793ec68db67e573fac7a581f"
+hash = "da0fcad5bacd9c3ecb2f2efa6d64717501687d5234e569d7b9efdf565033418d"
 
 [versions]
-fabric = "0.14.21"
+forge = "40.2.0"
 minecraft = "1.18.2"
