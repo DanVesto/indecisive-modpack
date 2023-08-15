@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "aef751f70b9024706a9b3589dc0e1b59cb3b778c3b1055ec8f5d610ebee2ccbd"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "50a75f0c3d7e52548aabc4a98634406601b72aa23a2836a9e4edbfdcebe327e2"
+
+[[files]]
+file = "config/apotheosis/enchantments.cfg"
+hash = "5d8b2f12e257b81ca77b8a851f9867147e69487c882e1704d4bfb450b3780b7f"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "e63e8c6a22e733713e67b4198f361185c696171dcad9a3b5ef13471eb290fb45"
+
+[[files]]
+file = "config/apotheosis/names.cfg"
+hash = "432cd149cb96778da395b91c92491ac79a1be9a5cb08abfeef6cb1e7ea8229b4"
+
+[[files]]
+file = "config/apotheosis/potion.cfg"
+hash = "e611a4606eddbea9885dff9b5b20e0e2a76f3f53d0c1f0490b9304899f849ff4"
+
+[[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "e138140e46eddddd9c8da330a7a26f6096ac198c376c98dfb81c597ef78c4c48"
+
+[[files]]
+file = "config/apotheosis/village.cfg"
+hash = "bf6765b9abaf4b3abfb9447f9cb8bf7e85e89d46a6dafc8d290738c12e4e7947"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "5fab8df842680444a7ecc8a0cd6349cef9afb30940b435dcac3cfe7073fa0733"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "d5b615071eb40387064b0f95ccdfbf10448249045420faa6c724f7e26748fdd4"
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
@@ -93,6 +133,16 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "1d7f95592de63e85db46a17cb90c0386b9810954ae55dea2da7ba6291db0cb4d"
+metafile = true
+
+[[files]]
+file = "mods/buddycards-expansions.pw.toml"
+hash = "f2f890b8e404882c665a4eaca3612f86939dab59767f8e9ad66ac9e8c4a572f2"
+metafile = true
+
+[[files]]
+file = "mods/buddycards.pw.toml"
+hash = "8b10ffbb6bbcfb0731fa3ee2a13c0c5d87a07564d9c305091990255837e2921e"
 metafile = true
 
 [[files]]
@@ -246,6 +296,16 @@ hash = "49ac4b54302b17b6df0411394d3cd336ae775df8f981d1fee961c7cb52282e32"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "d407624e38c852ade10d8bf4de6949bc935d6d7a23079f5602986296c21ac1c6"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "593b46a6a0179e427679f90da1d744f2870f844628725da803f9d640023d4c77"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
 metafile = true
@@ -263,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "5e817210ce0652cec8fd1b78b0b24c1a2d9b5a1f54fcd13b87aa2ec362fc7c4d"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "68b34a638042fcb11810a6266be7c1075cd39e601485f1c30c32569deb13df46"
 metafile = true
 
 [[files]]
