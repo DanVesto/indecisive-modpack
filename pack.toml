@@ -1,6 +1,6 @@
 name = "Indecisive Pack"
 author = "ArtificialDan"
-version = "0.0.2"
+version = "0.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "da0fcad5bacd9c3ecb2f2efa6d64717501687d5234e569d7b9efdf565033418d"
 
 [versions]
-forge = "40.2.0"
+forge = "40.2.10"
 minecraft = "1.18.2"
