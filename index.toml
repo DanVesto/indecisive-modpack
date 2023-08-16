@@ -291,12 +291,12 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "a23cd083c19f961223880ce56bc9ce8cba6532d60b012700a1ec64a443d36acf"
+hash = "b8f1ed5ec382ab2fe868bb07bcef9364f3afaf17cb72afc3051842c96089b76b"
 metafile = true
 
 [[files]]
 file = "mods/findme.pw.toml"
-hash = "dbf73c3cd302e39f9c359e2b29fda91f6c8b01c6b708088362eb0a4eba935dd2"
+hash = "49ac4b54302b17b6df0411394d3cd336ae775df8f981d1fee961c7cb52282e32"
 metafile = true
 
 [[files]]

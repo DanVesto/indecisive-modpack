@@ -1,6 +1,6 @@
 name = "FindMe"
 filename = "findme-3.0.6-forge.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"
