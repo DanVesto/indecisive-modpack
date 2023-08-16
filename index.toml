@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5bac7b42ecd09c6ef4600e145816e3f3d595d64d53f4b945c375d911a86a8708"
+hash = "60dae26990035300fa780d675f08756ef4d5fded76423b839328d648869e6b23"
 metafile = true
 
 [[files]]
@@ -636,12 +636,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "88edc98af5b7195d778d2e67d5e572d3771dd73dfee25f6b34c32e49cb5aea13"
+hash = "f8bd9594314e45e24ccb6682d9eecb944beed33adf5ce4742cc78497410a8886"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "afa620651c46f08eab99f82e130c0ef32b95caa6dc731300761b44484efea549"
+hash = "208639b449d76824225762d3d0e831eb1821c4927272ea99ea2e69fe27a70335"
 metafile = true
 
 [[files]]
