@@ -200,6 +200,11 @@ hash = "36217218d7336e59ae18b3b8e0acb37c9d4a432d889a1808840012b7c9d92a42"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "12ca499aff1c91c2e2ec3d094d4b9d6799bc2d2c8445827ed2ca07419f323605"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "938447d1a7b78c6a03b577d2f60a0fcf9ca3a5403304a9bdc201b9dbeacb89be"
 metafile = true
@@ -410,6 +415,11 @@ hash = "ce7da1b0909130c1934a001903e415fe162e5044b4e01baf32a16caa13d9ce2a"
 metafile = true
 
 [[files]]
+file = "mods/openblocks-elevator.pw.toml"
+hash = "9ba7ce600676fa147a460fa3ec04712943ed81c72a24774f2c2b721c113986a3"
+metafile = true
+
+[[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "20c1dac5f4982ce5dc4b1fd188e2e21a2af01d3b81f4f8a639f23474007da4a6"
 metafile = true
@@ -547,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-sweet-potato-edition.pw.toml"
 hash = "488fd8f9e145cf0abeb23ab11ab4de5d7ca5598a6256735b02461da512151d7b"
+metafile = true
+
+[[files]]
+file = "mods/spiky-spikes.pw.toml"
+hash = "4e1f560c5fb24f69dc4ca8c68cb797d12b41fa070a7e4855c0dce894aefd9a5e"
 metafile = true
 
 [[files]]

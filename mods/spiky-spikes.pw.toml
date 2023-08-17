@@ -1,0 +1,13 @@
+name = "Spiky Spikes"
+filename = "SpikySpikes-v3.0.0-1.18.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58f2e22ee634058b73e30ab57e17307a36592814"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4707832
+project-id = 666944
