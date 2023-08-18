@@ -510,6 +510,11 @@ hash = "644ccc61dbcb188c073e22e5669538883a7ec5a729ded9047083ef996e757091"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "7d48064ce69f8dc691cc8230e25fc267fb88fa89c7d68eff1fd21c24f2068995"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "677339e3009ce3baf939f026be93885fe243369537dd55f3816a25c91940af17"
 metafile = true
